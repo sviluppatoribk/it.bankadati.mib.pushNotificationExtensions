@@ -1,4 +1,4 @@
-# Cordova - Push Notification Extensions
+# Cordova - Push Notification Extensions (v. 0.0.1)
 
 ## DESCRIZIONE
 
